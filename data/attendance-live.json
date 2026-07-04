@@ -1,0 +1,7309 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-04T12:07:05.356Z",
+  "archiveDate": "2026-05-31",
+  "roomKey": "legacy:特别邀请-子平实战演练",
+  "roomName": "特别邀请-子平实战演练",
+  "latest": {
+    "id": "1780230343868-53f83e702f18d",
+    "recordedAt": "2026-05-31T12:25:43.868Z",
+    "labelTime": "20:25:43",
+    "roomName": "特别邀请-子平实战演练",
+    "totalOnline": 81,
+    "returnedUserCount": 71,
+    "assistants": [
+      {
+        "assistant": "刘小刚",
+        "online": 14,
+        "expected": 694,
+        "missing": false
+      },
+      {
+        "assistant": "代津",
+        "online": 12,
+        "expected": 641,
+        "missing": false
+      },
+      {
+        "assistant": "刘萌萌",
+        "online": 12,
+        "expected": 728,
+        "missing": false
+      },
+      {
+        "assistant": "黄曼",
+        "online": 10,
+        "expected": 598,
+        "missing": false
+      },
+      {
+        "assistant": "汪文榜",
+        "online": 7,
+        "expected": 479,
+        "missing": false
+      },
+      {
+        "assistant": "丁仁安",
+        "online": 6,
+        "expected": 486,
+        "missing": false
+      },
+      {
+        "assistant": "汪文榜-A2",
+        "online": 5,
+        "expected": 449,
+        "missing": false
+      },
+      {
+        "assistant": "李帅",
+        "online": 4,
+        "expected": 240,
+        "missing": false
+      },
+      {
+        "assistant": "(未配置助教)",
+        "online": 1,
+        "expected": 0,
+        "missing": true
+      }
+    ],
+    "suffixStats": [
+      {
+        "suffix": "广元-观心班-加餐课",
+        "count": 14
+      },
+      {
+        "suffix": "0525广元院长加餐",
+        "count": 12
+      },
+      {
+        "suffix": "小萌-广元加餐1",
+        "count": 12
+      },
+      {
+        "suffix": "曼曼班-广元老师加餐",
+        "count": 10
+      },
+      {
+        "suffix": "松衡班-广元老师特别",
+        "count": 7
+      },
+      {
+        "suffix": "广元院长特别加餐05",
+        "count": 6
+      },
+      {
+        "suffix": "松衡2班-广元老师特",
+        "count": 5
+      },
+      {
+        "suffix": "景涵班-广元老院长实",
+        "count": 4
+      },
+      {
+        "suffix": "(无@后缀)",
+        "count": 1
+      }
+    ]
+  },
+  "recordCount": 75,
+  "peakOnline": 108,
+  "records": [
+    {
+      "id": "1780225162926-7a2443a2ed2db",
+      "recordedAt": "2026-05-31T10:59:22.926Z",
+      "labelTime": "18:59:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 4,
+      "returnedUserCount": 2,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 1,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 1
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780225222862-82026a087a5828",
+      "recordedAt": "2026-05-31T11:00:22.862Z",
+      "labelTime": "19:00:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 13,
+      "returnedUserCount": 12,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 4,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "huang m",
+          "online": 1,
+          "expected": 0,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 7,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 4
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 4
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 1
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 1
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 1
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780225282926-718b08ccb9f0d",
+      "recordedAt": "2026-05-31T11:01:22.926Z",
+      "labelTime": "19:01:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 23,
+      "returnedUserCount": 22,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 8,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 4,
+          "expected": 0,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 3,
+          "expected": 0,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 2,
+          "expected": 0,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 2,
+          "expected": 0,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 3,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 8
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 4
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 3
+        },
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 2
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 2
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 2
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780225342863-106afb78474ac",
+      "recordedAt": "2026-05-31T11:02:22.863Z",
+      "labelTime": "19:02:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 30,
+      "returnedUserCount": 29,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 10,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 6,
+          "expected": 0,
+          "missing": false
+        },
+        {
+          "assistant": "刘小刚",
+          "online": 4,
+          "expected": 0,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 3,
+          "expected": 0,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 2,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 2,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 2,
+          "expected": 0,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 10
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 6
+        },
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 4
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 3
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 2
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 2
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1780225402934-a40f1b345e615",
+      "recordedAt": "2026-05-31T11:03:22.934Z",
+      "labelTime": "19:03:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 40,
+      "returnedUserCount": 37,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 10,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "刘小刚",
+          "online": 8,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 6,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 5,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 3,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 3,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 2,
+          "expected": 449,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 10
+        },
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 8
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 6
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 5
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 3
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 3
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1780225462947-49ebb963ad505",
+      "recordedAt": "2026-05-31T11:04:22.947Z",
+      "labelTime": "19:04:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 43,
+      "returnedUserCount": 40,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 10,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 9,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 6,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 5,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 3,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 2,
+          "expected": 449,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 10
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 6
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 5
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 3
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1780225523763-99b2a3f8cba988",
+      "recordedAt": "2026-05-31T11:05:23.763Z",
+      "labelTime": "19:05:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 46,
+      "returnedUserCount": 42,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 10,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 9,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 6,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 5,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 3,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 2,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 10
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 6
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 5
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 3
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 2
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780225582881-67fc8030a61c68",
+      "recordedAt": "2026-05-31T11:06:22.881Z",
+      "labelTime": "19:06:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 54,
+      "returnedUserCount": 50,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 13,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 11,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 6,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 6,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 3,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 2,
+          "expected": 0,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 2,
+          "expected": 449,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 13
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 11
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 6
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 6
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 3
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 2
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1780225643762-e0ee6d1aa8309",
+      "recordedAt": "2026-05-31T11:07:23.762Z",
+      "labelTime": "19:07:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 58,
+      "returnedUserCount": 55,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 13,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 11,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 9,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 7,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 7,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 3,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 3,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 2,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 13
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 11
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 9
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 7
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 7
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 3
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 3
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1780225702909-f889430151b118",
+      "recordedAt": "2026-05-31T11:08:22.909Z",
+      "labelTime": "19:08:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 56,
+      "returnedUserCount": 53,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 13,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 11,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 8,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 6,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 3,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 2,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 2,
+          "expected": 449,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 13
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 11
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 8
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 6
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 3
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 2
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1780225762874-1c3e620ac50f6",
+      "recordedAt": "2026-05-31T11:09:22.874Z",
+      "labelTime": "19:09:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 60,
+      "returnedUserCount": 57,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 13,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 12,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 9,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 7,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 4,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 2,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 2,
+          "expected": 449,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 13
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 12
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 7
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 4
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 2
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1780225822989-c687b83562e9c",
+      "recordedAt": "2026-05-31T11:10:22.989Z",
+      "labelTime": "19:10:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 61,
+      "returnedUserCount": 58,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 13,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 12,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 9,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 7,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 4,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 3,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 2,
+          "expected": 449,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 13
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 12
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 7
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 4
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 3
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1780225882915-5e989d715dd47",
+      "recordedAt": "2026-05-31T11:11:22.915Z",
+      "labelTime": "19:11:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 62,
+      "returnedUserCount": 59,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 12,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "刘小刚",
+          "online": 12,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 9,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 8,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 4,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 3,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 3,
+          "expected": 449,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 12
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 12
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 9
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 8
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 4
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 3
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1780225942928-bbe690381672",
+      "recordedAt": "2026-05-31T11:12:22.928Z",
+      "labelTime": "19:12:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 64,
+      "returnedUserCount": 61,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 13,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "刘小刚",
+          "online": 13,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 8,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 7,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 5,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 3,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 3,
+          "expected": 449,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 13
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 13
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 8
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 7
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 3
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1780226002987-40692849f145a",
+      "recordedAt": "2026-05-31T11:13:22.987Z",
+      "labelTime": "19:13:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 66,
+      "returnedUserCount": 61,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 13,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "刘小刚",
+          "online": 13,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 6,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 3,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 2,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 13
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 13
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 6
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 3
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1780226063847-8197e605f237b",
+      "recordedAt": "2026-05-31T11:14:23.847Z",
+      "labelTime": "19:14:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 68,
+      "returnedUserCount": 64,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 13,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 12,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 8,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 6,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 4,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 3,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 13
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 12
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 8
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 6
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 4
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1780226123812-89f7e7708ea5f",
+      "recordedAt": "2026-05-31T11:15:23.812Z",
+      "labelTime": "19:15:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 68,
+      "returnedUserCount": 64,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 13,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "刘小刚",
+          "online": 12,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 8,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 8,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 7,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 4,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 3,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 13
+        },
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 12
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 8
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 8
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 7
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 4
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1780226182967-67a2df3e795eb",
+      "recordedAt": "2026-05-31T11:16:22.967Z",
+      "labelTime": "19:16:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 72,
+      "returnedUserCount": 66,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "刘小刚",
+          "online": 13,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 8,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 8,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 6,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 4,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 3,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 13
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 8
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 8
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 6
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 4
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1780226243848-1dee1f7f75d19",
+      "recordedAt": "2026-05-31T11:17:23.848Z",
+      "labelTime": "19:17:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 76,
+      "returnedUserCount": 70,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 15,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "刘小刚",
+          "online": 15,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 11,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 8,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 7,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 6,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 5,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 3,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 15
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 15
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 11
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 8
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 7
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 6
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1780226303868-331deb16a2eff8",
+      "recordedAt": "2026-05-31T11:18:23.868Z",
+      "labelTime": "19:18:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 76,
+      "returnedUserCount": 70,
+      "assistants": [
+        {
+          "assistant": "刘萌萌",
+          "online": 15,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "刘小刚",
+          "online": 15,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 11,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 7,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 7,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 5,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 3,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 15
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 15
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 11
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 7
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1780226383885-921ab90a1395b",
+      "recordedAt": "2026-05-31T11:19:43.885Z",
+      "labelTime": "19:19:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 77,
+      "returnedUserCount": 71,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 16,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 11,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 8,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 7,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 5,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 16
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 11
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 8
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1780226443847-df5406feaf90f",
+      "recordedAt": "2026-05-31T11:20:43.847Z",
+      "labelTime": "19:20:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 74,
+      "returnedUserCount": 68,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 16,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 5,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 5,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 3,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 16
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 5
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1780226503860-d87b83697be8",
+      "recordedAt": "2026-05-31T11:21:43.860Z",
+      "labelTime": "19:21:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 77,
+      "returnedUserCount": 71,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 18,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 10,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 5,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 5,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 18
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 5
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1780226563847-f0509c2db1c89",
+      "recordedAt": "2026-05-31T11:22:43.847Z",
+      "labelTime": "19:22:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 77,
+      "returnedUserCount": 71,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 18,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 7,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 5,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 18
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1780226623928-4d7a2193770a2",
+      "recordedAt": "2026-05-31T11:23:43.928Z",
+      "labelTime": "19:23:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 76,
+      "returnedUserCount": 69,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 17,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 7,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 5,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 17
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1780226723642-3b483ecbbccf08",
+      "recordedAt": "2026-05-31T11:25:23.642Z",
+      "labelTime": "19:25:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 79,
+      "returnedUserCount": 72,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 17,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 15,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 7,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 6,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 17
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 15
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 7
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 6
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1780226783077-855243cef94358",
+      "recordedAt": "2026-05-31T11:26:23.077Z",
+      "labelTime": "19:26:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 77,
+      "returnedUserCount": 70,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 17,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 15,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 7,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 4,
+          "expected": 449,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 17
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 15
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1780226843040-c35846f29d565",
+      "recordedAt": "2026-05-31T11:27:23.040Z",
+      "labelTime": "19:27:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 80,
+      "returnedUserCount": 73,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 18,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 7,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 5,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 18
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 7
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1780226902989-d25db8e83356c8",
+      "recordedAt": "2026-05-31T11:28:22.989Z",
+      "labelTime": "19:28:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 79,
+      "returnedUserCount": 72,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 18,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 6,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 6,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 18
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 6
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1780226963006-4e652082c05",
+      "recordedAt": "2026-05-31T11:29:23.006Z",
+      "labelTime": "19:29:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 82,
+      "returnedUserCount": 75,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 19,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 6,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 19
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1780227023048-f0fe644e76761",
+      "recordedAt": "2026-05-31T11:30:23.048Z",
+      "labelTime": "19:30:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 84,
+      "returnedUserCount": 77,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 7,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 7
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1780227083047-6d89cf96217b98",
+      "recordedAt": "2026-05-31T11:31:23.047Z",
+      "labelTime": "19:31:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 85,
+      "returnedUserCount": 78,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 8,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 8
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227143052-b89e8e87a22bf8",
+      "recordedAt": "2026-05-31T11:32:23.052Z",
+      "labelTime": "19:32:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 85,
+      "returnedUserCount": 78,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 19,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 10,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 9,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 19
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 10
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227202954-db2d0adfcd1ee8",
+      "recordedAt": "2026-05-31T11:33:22.954Z",
+      "labelTime": "19:33:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 85,
+      "returnedUserCount": 78,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 17,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 11,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 10,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 17
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 11
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227263050-ecba426437d13",
+      "recordedAt": "2026-05-31T11:34:23.050Z",
+      "labelTime": "19:34:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 86,
+      "returnedUserCount": 79,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 17,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 12,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 10,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 17
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 12
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227323954-ccfc4696ddee38",
+      "recordedAt": "2026-05-31T11:35:23.954Z",
+      "labelTime": "19:35:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 88,
+      "returnedUserCount": 80,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 19,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 10,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 10,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 19
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227403939-015744c22325a",
+      "recordedAt": "2026-05-31T11:36:43.939Z",
+      "labelTime": "19:36:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 90,
+      "returnedUserCount": 82,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 11,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 11
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227463927-cd09a2d1c0eab",
+      "recordedAt": "2026-05-31T11:37:43.927Z",
+      "labelTime": "19:37:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 90,
+      "returnedUserCount": 82,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 19,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 15,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 11,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 19
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 15
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 11
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227523955-946d6f5aa1a8b",
+      "recordedAt": "2026-05-31T11:38:43.955Z",
+      "labelTime": "19:38:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 92,
+      "returnedUserCount": 83,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 18,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 16,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 11,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 10,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 18
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 16
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 11
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227583946-728bbaba4f5cc8",
+      "recordedAt": "2026-05-31T11:39:43.947Z",
+      "labelTime": "19:39:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 92,
+      "returnedUserCount": 84,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 18,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 16,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 11,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 11,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 18
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 16
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 11
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 11
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227643898-85bc574afc0a2",
+      "recordedAt": "2026-05-31T11:40:43.898Z",
+      "labelTime": "19:40:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 92,
+      "returnedUserCount": 83,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 18,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 15,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 11,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 11,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 18
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 15
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 11
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 11
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227703936-ed65ac5ce612d",
+      "recordedAt": "2026-05-31T11:41:43.936Z",
+      "labelTime": "19:41:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 96,
+      "returnedUserCount": 86,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 22,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 11,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 11,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 22
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 11
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 11
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227763897-7f199c371efe38",
+      "recordedAt": "2026-05-31T11:42:43.897Z",
+      "labelTime": "19:42:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 96,
+      "returnedUserCount": 86,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 10,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 8,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 7,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 10
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 8
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 7
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227823914-1cdc48f64f1c3",
+      "recordedAt": "2026-05-31T11:43:43.914Z",
+      "labelTime": "19:43:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 99,
+      "returnedUserCount": 89,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 10,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 8,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 8,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 10
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 8
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 8
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227883874-842f7232b6083",
+      "recordedAt": "2026-05-31T11:44:43.874Z",
+      "labelTime": "19:44:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 101,
+      "returnedUserCount": 91,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 10,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 10,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 10
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227922972-a7e9537d5ceba8",
+      "recordedAt": "2026-05-31T11:45:22.972Z",
+      "labelTime": "19:45:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 101,
+      "returnedUserCount": 91,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 14,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 10,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780227983068-61979883ca862",
+      "recordedAt": "2026-05-31T11:46:23.068Z",
+      "labelTime": "19:46:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 102,
+      "returnedUserCount": 92,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 15,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 10,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 7,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 15
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 7
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228043014-90510ecb464bc",
+      "recordedAt": "2026-05-31T11:47:23.014Z",
+      "labelTime": "19:47:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 103,
+      "returnedUserCount": 93,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 15,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 10,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 8,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 15
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 8
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228103053-00d5e419471688",
+      "recordedAt": "2026-05-31T11:48:23.053Z",
+      "labelTime": "19:48:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 101,
+      "returnedUserCount": 91,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 15,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 10,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 15
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228162947-db1b49263bf5b8",
+      "recordedAt": "2026-05-31T11:49:22.947Z",
+      "labelTime": "19:49:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 102,
+      "returnedUserCount": 92,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 10,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 7,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228222949-1f32938625579",
+      "recordedAt": "2026-05-31T11:50:22.949Z",
+      "labelTime": "19:50:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 102,
+      "returnedUserCount": 92,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 18,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 11,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 18
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 11
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228282963-b5a5611be3eea",
+      "recordedAt": "2026-05-31T11:51:22.963Z",
+      "labelTime": "19:51:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 100,
+      "returnedUserCount": 90,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 11,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 11
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228343441-e3c9d69d316348",
+      "recordedAt": "2026-05-31T11:52:23.441Z",
+      "labelTime": "19:52:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 98,
+      "returnedUserCount": 87,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 19,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 11,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 10,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 19
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 11
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228402971-3b51a5f55c311",
+      "recordedAt": "2026-05-31T11:53:22.971Z",
+      "labelTime": "19:53:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 101,
+      "returnedUserCount": 90,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 16,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 12,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 16
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228463836-6ab2b82b71f948",
+      "recordedAt": "2026-05-31T11:54:23.836Z",
+      "labelTime": "19:54:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 102,
+      "returnedUserCount": 91,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 16,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 13,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 16
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 13
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228543878-b3a6110b2a5528",
+      "recordedAt": "2026-05-31T11:55:43.878Z",
+      "labelTime": "19:55:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 102,
+      "returnedUserCount": 91,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 16,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 11,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 16
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 11
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228603827-be1e1e64c22df8",
+      "recordedAt": "2026-05-31T11:56:43.827Z",
+      "labelTime": "19:56:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 103,
+      "returnedUserCount": 92,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 22,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 16,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 11,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 22
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 16
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 11
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228663852-9be044e32f6968",
+      "recordedAt": "2026-05-31T11:57:43.852Z",
+      "labelTime": "19:57:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 103,
+      "returnedUserCount": 91,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 22,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 16,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 11,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 22
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 16
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 11
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228723811-1c057172fa42d",
+      "recordedAt": "2026-05-31T11:58:43.811Z",
+      "labelTime": "19:58:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 104,
+      "returnedUserCount": 92,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 22,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 11,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 22
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 11
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228783854-21b5673d20d358",
+      "recordedAt": "2026-05-31T11:59:43.854Z",
+      "labelTime": "19:59:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 102,
+      "returnedUserCount": 89,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 11,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 8,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 11
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 8
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228844274-dfab4ec3f740c8",
+      "recordedAt": "2026-05-31T12:00:44.274Z",
+      "labelTime": "20:00:44",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 102,
+      "returnedUserCount": 89,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 16,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 11,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 8,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 16
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 11
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 8
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228883838-30d17099b750b",
+      "recordedAt": "2026-05-31T12:01:23.838Z",
+      "labelTime": "20:01:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 105,
+      "returnedUserCount": 93,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 22,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 10,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 8,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 7,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 5,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 22
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 8
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780228963977-ba058fab3f0a3",
+      "recordedAt": "2026-05-31T12:02:43.977Z",
+      "labelTime": "20:02:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 106,
+      "returnedUserCount": 95,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 12,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 7,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780229023895-4d04a47860dc",
+      "recordedAt": "2026-05-31T12:03:43.895Z",
+      "labelTime": "20:03:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 107,
+      "returnedUserCount": 96,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 15,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 12,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 15
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780229083837-9c2faf922cbde",
+      "recordedAt": "2026-05-31T12:04:43.837Z",
+      "labelTime": "20:04:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 106,
+      "returnedUserCount": 96,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 15,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 12,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 15
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780229143758-cf459109f7a43",
+      "recordedAt": "2026-05-31T12:05:43.758Z",
+      "labelTime": "20:05:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 105,
+      "returnedUserCount": 95,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 15,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 12,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 15
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780229899858-0798ef9ae6bee8",
+      "recordedAt": "2026-05-31T12:18:19.858Z",
+      "labelTime": "20:18:19",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 108,
+      "returnedUserCount": 99,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 23,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 16,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 12,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 9,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 23
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 16
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 12
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 9
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780229902966-504e6bb02643a8",
+      "recordedAt": "2026-05-31T12:18:22.966Z",
+      "labelTime": "20:18:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 108,
+      "returnedUserCount": 98,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 22,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 16,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 12,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 9,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 22
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 16
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 12
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 9
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780229962950-beb5fcd401488",
+      "recordedAt": "2026-05-31T12:19:22.950Z",
+      "labelTime": "20:19:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 108,
+      "returnedUserCount": 97,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 21,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 17,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 12,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 9,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 6,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 21
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 17
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 12
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 9
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 6
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780230022990-6c30d9fb15006",
+      "recordedAt": "2026-05-31T12:20:22.990Z",
+      "labelTime": "20:20:22",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 105,
+      "returnedUserCount": 94,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 15,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 12,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 10,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 10,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 9,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 15
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 10
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780230083790-b1a7f024619488",
+      "recordedAt": "2026-05-31T12:21:23.790Z",
+      "labelTime": "20:21:23",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 102,
+      "returnedUserCount": 91,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 20,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 13,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 11,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 10,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 9,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 9,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 20
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 13
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 11
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 10
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 9
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780230163888-2dbed64e8fb9f",
+      "recordedAt": "2026-05-31T12:22:43.888Z",
+      "labelTime": "20:22:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 97,
+      "returnedUserCount": 86,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 18,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 13,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 12,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 10,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 10,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 9,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 8,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 5,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 18
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 13
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 10
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 10
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 9
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 8
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 5
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780230223836-b79194890dbdc",
+      "recordedAt": "2026-05-31T12:23:43.836Z",
+      "labelTime": "20:23:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 86,
+      "returnedUserCount": 76,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 13,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 12,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 11,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 8,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 8,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 7,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 13
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 11
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 8
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 8
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 7
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780230283830-1362792ca0f66",
+      "recordedAt": "2026-05-31T12:24:43.830Z",
+      "labelTime": "20:24:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 76,
+      "returnedUserCount": 67,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 12,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 11,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 10,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 10,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 7,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 6,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 12
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 11
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 10
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 6
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1780230343868-53f83e702f18d",
+      "recordedAt": "2026-05-31T12:25:43.868Z",
+      "labelTime": "20:25:43",
+      "roomName": "特别邀请-子平实战演练",
+      "totalOnline": 81,
+      "returnedUserCount": 71,
+      "assistants": [
+        {
+          "assistant": "刘小刚",
+          "online": 14,
+          "expected": 694,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 12,
+          "expected": 641,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 12,
+          "expected": 728,
+          "missing": false
+        },
+        {
+          "assistant": "黄曼",
+          "online": 10,
+          "expected": 598,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 7,
+          "expected": 479,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 6,
+          "expected": 486,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜-A2",
+          "online": 5,
+          "expected": 449,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 4,
+          "expected": 240,
+          "missing": false
+        },
+        {
+          "assistant": "(未配置助教)",
+          "online": 1,
+          "expected": 0,
+          "missing": true
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "广元-观心班-加餐课",
+          "count": 14
+        },
+        {
+          "suffix": "0525广元院长加餐",
+          "count": 12
+        },
+        {
+          "suffix": "小萌-广元加餐1",
+          "count": 12
+        },
+        {
+          "suffix": "曼曼班-广元老师加餐",
+          "count": 10
+        },
+        {
+          "suffix": "松衡班-广元老师特别",
+          "count": 7
+        },
+        {
+          "suffix": "广元院长特别加餐05",
+          "count": 6
+        },
+        {
+          "suffix": "松衡2班-广元老师特",
+          "count": 5
+        },
+        {
+          "suffix": "景涵班-广元老院长实",
+          "count": 4
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>销售流水数据大屏</title>
+    <link rel="stylesheet" href="./styles.css">
+    <style>
+      .nav-link,
+      .secondary-link {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 34px;
+        border-radius: 6px;
+        padding: 8px 12px;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 1;
+        text-decoration: none;
+        white-space: nowrap;
+      }
+      .nav-link {
+        border: 1px solid #2b7bd7;
+        background: #1c6ed0;
+        color: #ffffff;
+      }
+      .secondary-link {
+        border: 1px solid var(--line);
+        background: rgba(79, 184, 199, 0.12);
+        color: var(--accent);
+      }
+      .attendance-overview {
+        display: grid;
+        gap: 14px;
+      }
+      .attendance-summary {
+        display: grid;
+        grid-template-columns: repeat(6, minmax(0, 1fr));
+        gap: 10px;
+      }
+      .attendance-summary div {
+        min-height: 82px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 12px;
+        background: var(--panel-2);
+      }
+      .attendance-summary span {
+        display: block;
+        margin-bottom: 8px;
+        color: var(--muted);
+        font-size: 12px;
+      }
+      .attendance-summary strong {
+        display: block;
+        overflow-wrap: anywhere;
+        font-size: 22px;
+        line-height: 1.18;
+      }
+      .attendance-table-wrap {
+        max-height: 320px;
+        overflow: auto;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+      }
+      .attendance-table-wrap table {
+        margin: 0;
+      }
+      .attendance-table-wrap th:nth-child(2),
+      .attendance-table-wrap th:nth-child(3),
+      .attendance-table-wrap th:nth-child(4),
+      .attendance-table-wrap td:nth-child(2),
+      .attendance-table-wrap td:nth-child(3),
+      .attendance-table-wrap td:nth-child(4) {
+        text-align: right;
+        font-variant-numeric: tabular-nums;
+      }
+    </style>
+  </head>
+  <body>
+    <main id="app">
+      <section class="topbar">
+        <div>
+          <h1>销售流水数据大屏</h1>
+          <p id="subtitle">加载数据中</p>
+        </div>
+        <div class="controls">
+          <label>月份 <select id="monthInput"></select></label>
+          <label>今日 <input id="todayInput" type="date"></label>
+          <select id="trackSelect"></select>
+          <select id="teamSelect"></select>
+          <a class="nav-link" href="#attendanceOverview">出勤看板</a>
+          <button id="openOrderMatch" class="admin-only">订单匹配</button>
+          <button id="openDepositMatch" class="admin-only">订金匹配</button>
+          <button id="openConfig" class="admin-only">配置</button>
+        </div>
+      </section>
+
+      <section class="panel attendance-overview" id="attendanceOverview">
+        <div class="panel-title">
+          <div>
+            <h2>实时出勤概览</h2>
+            <p id="attendanceStatus" class="muted">正在读取出勤记录...</p>
+          </div>
+          <a class="secondary-link" href="#attendanceOverview">查看实时出勤</a>
+        </div>
+        <div class="attendance-summary" id="attendanceSummary">
+          <div><span>归档日期</span><strong>-</strong></div>
+          <div><span>直播间</span><strong>-</strong></div>
+          <div><span>最近记录</span><strong>-</strong></div>
+          <div><span>总在线</span><strong>-</strong></div>
+          <div><span>今日记录</span><strong>-</strong></div>
+          <div><span>最高在线</span><strong>-</strong></div>
+        </div>
+        <div class="attendance-table-wrap">
+          <table id="attendanceLiveTable">
+            <thead>
+              <tr>
+                <th>助教老师</th>
+                <th>在线人数</th>
+                <th>名片量</th>
+                <th>在线率</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td colspan="4">正在读取出勤记录...</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section id="warnings" class="warnings"></section>
+
+      <section class="panel config-panel hidden" id="configPanel">
+        <div class="panel-title">
+          <h2>轨次与成本配置</h2>
+          <div class="panel-actions">
+            <button id="settleTrack">结算当前轨次</button>
+            <button id="closeConfig">关闭</button>
+          </div>
+        </div>
+        <div id="trackConfig" class="track-grid"></div>
+        <div class="team-tools">
+          <div class="panel-title compact-title">
+            <div>
+              <h3>团队与人员归属</h3>
+              <p id="teamConfigHint" class="muted"></p>
+            </div>
+            <button id="addTeam" class="secondary-button">新增团队</button>
+          </div>
+          <div id="teamConfig" class="team-config-grid"></div>
+          <div class="assignment-head">
+            <h3>当前轨次人员分配</h3>
+            <p class="muted">按运营老师标准名分配，当前轨次修改会沿用到之后未单独配置的轨次；未分配会进入“未分配团队”。</p>
+          </div>
+          <div id="teamAssignmentConfig" class="assignment-grid"></div>
+        </div>
+        <div class="upload-tools">
+          <h3>数据上传</h3>
+          <p>名片表、订单总表、订金列表、出勤表都会按所选轨次单独覆盖；新订单表会追加到所选轨次；跨期订单只进入月度绩效流水。</p>
+          <div class="upload-grid">
+            <label class="upload-card">
+              <span>名片表</span>
+              <select id="cardsTrackSelect"></select>
+              <input id="cardsUpload" type="file" accept=".xlsx">
+            </label>
+            <label class="upload-card">
+              <span>覆盖订单总表</span>
+              <select id="ordersReplaceTrackSelect"></select>
+              <input id="ordersReplaceUpload" type="file" accept=".xlsx,.xls">
+            </label>
+            <label class="upload-card">
+              <span>追加新订单表</span>
+              <select id="ordersTrackSelect"></select>
+              <input id="ordersUpload" type="file" accept=".xlsx,.xls">
+            </label>
+            <label class="upload-card">
+              <span>跨期订单</span>
+              <select id="periodOrdersMode">
+                <option value="replace">覆盖全部跨期订单</option>
+                <option value="add">新增跨期订单</option>
+              </select>
+              <input id="periodOrdersUpload" type="file" accept=".xlsx,.xls">
+            </label>
+            <label class="upload-card">
+              <span>订金列表</span>
+              <select id="depositsTrackSelect"></select>
+              <input id="depositsUpload" type="file" accept=".xlsx,.xls">
+            </label>
+            <label class="upload-card">
+              <span>出勤表</span>
+              <select id="attendanceTrackSelect"></select>
+              <input id="attendanceUpload" type="file" accept=".xlsx,.xls">
+            </label>
+          </div>
+          <div id="uploadStatus" class="upload-status"></div>
+        </div>
+        <div class="cost-tools">
+          <h3>渠道成本填写</h3>
+          <p>填写“每张名片平均成本”，系统会按名片量自动计算渠道、个人和团队成本。</p>
+          <div class="cost-actions">
+            <button id="syncStateToDisk" class="secondary-button">保存成本到同步文件</button>
+            <span id="stateSyncStatus" class="muted"></span>
+          </div>
+          <div id="costGrid" class="cost-grid"></div>
+        </div>
+      </section>
+
+      <section class="kpis" id="kpis"></section>
+
+      <section class="panel">
+        <div class="panel-title"><h2>团队当轨进度</h2></div>
+        <div class="table-wrap"><table id="teamProgressTable"></table></div>
+      </section>
+
+      <section class="insight-grid">
+        <section class="panel overview-panel">
+          <div class="panel-title"><h2>月度团队概览</h2></div>
+          <div id="teamOverview"></div>
+        </section>
+        <section class="panel">
+          <div class="panel-title"><h2>渠道月度费比排名</h2></div>
+          <div id="channelRevenueChart" class="bar-chart compact-chart"></div>
+        </section>
+      </section>
+
+      <section class="charts-grid">
+        <section class="panel">
+          <div class="panel-title"><h2>运营老师当轨流水排名</h2></div>
+          <div id="employeeRevenueChart" class="bar-chart"></div>
+        </section>
+        <section class="panel">
+          <div class="panel-title"><h2>当轨次个人费比对比</h2></div>
+          <div id="trackEmployeeRatioChart" class="bar-chart ratio-chart"></div>
+        </section>
+        <section class="panel">
+          <div class="panel-title"><h2>个人月总费比对比</h2></div>
+          <div id="monthEmployeeRatioChart" class="bar-chart ratio-chart"></div>
+        </section>
+      </section>
+
+      <section class="panel">
+        <div class="panel-title"><h2>运营老师轨次进度</h2></div>
+        <div class="table-wrap"><table id="employeeTable"></table></div>
+      </section>
+      <section class="panel">
+        <div class="panel-title"><h2>运营老师出勤数据</h2></div>
+        <div class="table-wrap"><table id="attendanceTable"></table></div>
+      </section>
+      <section class="panel">
+        <div class="panel-title"><h2>运营老师足课数据</h2></div>
+        <div class="table-wrap"><table id="fullAttendanceTable"></table></div>
+      </section>
+      <section class="panel">
+        <div class="panel-title"><h2>月度预计绩效</h2></div>
+        <div class="table-wrap"><table id="performanceTable"></table></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-title"><h2>渠道总控</h2></div>
+        <div class="table-wrap"><table id="channelTable"></table></div>
+      </section>
+
+      <section class="panel diagnostics-panel admin-only">
+        <div class="panel-title">
+          <h2>字段识别与匹配检查</h2>
+          <button id="toggleDiagnostics">展开</button>
+        </div>
+        <div id="diagnostics" class="diagnostics hidden"></div>
+      </section>
+    </main>
+    <section id="orderMatchModal" class="modal hidden" aria-hidden="true">
+      <div class="modal-backdrop" data-close-order-match></div>
+      <div class="modal-panel">
+        <div class="panel-title">
+          <div>
+            <h2>订单匹配明细</h2>
+            <p id="orderMatchSummary" class="modal-subtitle"></p>
+          </div>
+          <div class="panel-actions">
+            <button id="resetOrderOverrides" class="secondary-button">清空手动修正</button>
+            <button data-close-order-match>关闭</button>
+          </div>
+        </div>
+        <div class="match-toolbar">
+          <input id="orderMatchSearch" type="search" placeholder="搜索订单客户、员工、渠道">
+          <select id="orderMatchFilter">
+            <option value="all">全部订单</option>
+            <option value="unmatched">只看未匹配</option>
+            <option value="manual">只看手动修正</option>
+            <option value="matched">只看已匹配</option>
+            <option value="deleted">只看已删除</option>
+          </select>
+        </div>
+        <div class="table-wrap match-table-wrap"><table id="orderMatchTable"></table></div>
+      </div>
+    </section>
+    <section id="depositMatchModal" class="modal hidden" aria-hidden="true">
+      <div class="modal-backdrop" data-close-deposit-match></div>
+      <div class="modal-panel">
+        <div class="panel-title">
+          <div>
+            <h2>订金匹配明细</h2>
+            <p id="depositMatchSummary" class="modal-subtitle"></p>
+          </div>
+          <div class="panel-actions">
+            <button id="resetDepositOverrides" class="secondary-button">清空手动修正</button>
+            <button data-close-deposit-match>关闭</button>
+          </div>
+        </div>
+        <div class="match-toolbar">
+          <input id="depositMatchSearch" type="search" placeholder="搜索订金客户、员工、渠道">
+          <select id="depositMatchFilter">
+            <option value="all">全部订金</option>
+            <option value="unmatched">只看未匹配</option>
+            <option value="manual">只看手动修正</option>
+            <option value="matched">只看已匹配</option>
+          </select>
+        </div>
+        <div class="table-wrap match-table-wrap"><table id="depositMatchTable"></table></div>
+      </div>
+    </section>
+    <script src="./attendance-live.js"></script>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
