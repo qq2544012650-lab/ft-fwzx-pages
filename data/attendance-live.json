@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-04T14:05:02.873Z",
+  "updatedAt": "2026-07-04T14:06:02.869Z",
   "rooms": [
     {
       "id": "1782989681807-db6535a2904e18",
@@ -16,27 +16,21 @@
   "roomKey": "1782989681807-db6535a2904e18",
   "roomName": "0702广元",
   "latest": {
-    "id": "1783173902832-182b64cb05a8e",
-    "recordedAt": "2026-07-04T14:05:02.832Z",
+    "id": "1783173962826-11318b27dbf6c",
+    "recordedAt": "2026-07-04T14:06:02.825Z",
     "archiveDate": "2026-07-04",
     "archiveRoomName": "第三课-地支有库 好才好事业",
-    "labelTime": "22:05:02",
+    "labelTime": "22:06:02",
     "roomName": "第三课-地支有库 好才好事业",
     "monitorId": "1782989681807-db6535a2904e18",
     "monitorName": "0702广元",
-    "totalOnline": 287,
-    "returnedUserCount": 211,
+    "totalOnline": 283,
+    "returnedUserCount": 208,
     "assistants": [
       {
         "assistant": "黄曼",
         "online": 38,
         "expected": 1009,
-        "missing": false
-      },
-      {
-        "assistant": "刘小刚",
-        "online": 36,
-        "expected": 1473,
         "missing": false
       },
       {
@@ -46,8 +40,14 @@
         "missing": false
       },
       {
+        "assistant": "刘小刚",
+        "online": 34,
+        "expected": 1473,
+        "missing": false
+      },
+      {
         "assistant": "汪文榜",
-        "online": 33,
+        "online": 30,
         "expected": 1015,
         "missing": false
       },
@@ -59,19 +59,19 @@
       },
       {
         "assistant": "刘萌萌",
-        "online": 19,
+        "online": 21,
         "expected": 1438,
         "missing": false
       },
       {
         "assistant": "代津",
-        "online": 16,
+        "online": 15,
         "expected": 653,
         "missing": false
       },
       {
         "assistant": "夏志能",
-        "online": 9,
+        "online": 10,
         "expected": 289,
         "missing": false
       }
@@ -79,7 +79,7 @@
     "suffixStats": [
       {
         "suffix": "观心2班-广元老师易",
-        "count": 22
+        "count": 20
       },
       {
         "suffix": "曼曼A2-广元老师公",
@@ -95,7 +95,7 @@
       },
       {
         "suffix": "松衡2班-广元老师易",
-        "count": 18
+        "count": 17
       },
       {
         "suffix": "景涵班-A广元院长精",
@@ -103,10 +103,6 @@
       },
       {
         "suffix": "若宇班-广元老师易学",
-        "count": 16
-      },
-      {
-        "suffix": "松衡3班-广元老师易",
         "count": 15
       },
       {
@@ -118,16 +114,20 @@
         "count": 14
       },
       {
-        "suffix": "小萌1-广元老师精品",
-        "count": 10
-      },
-      {
-        "suffix": "临川老师-广元易学实",
-        "count": 9
+        "suffix": "松衡3班-广元老师易",
+        "count": 13
       },
       {
         "suffix": "小萌2-广元老师精品",
-        "count": 9
+        "count": 11
+      },
+      {
+        "suffix": "临川老师-广元易学实",
+        "count": 10
+      },
+      {
+        "suffix": "小萌1-广元老师精品",
+        "count": 10
       },
       {
         "suffix": "景涵班-广元院长精品",
@@ -139,7 +139,7 @@
       }
     ]
   },
-  "recordCount": 183,
+  "recordCount": 184,
   "peakOnline": 773,
   "records": [
     {
@@ -22803,6 +22803,130 @@
         {
           "suffix": "小萌2-广元老师精品",
           "count": 9
+        },
+        {
+          "suffix": "景涵班-广元院长精品",
+          "count": 7
+        },
+        {
+          "suffix": "(无@后缀)",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1783173962826-11318b27dbf6c",
+      "recordedAt": "2026-07-04T14:06:02.825Z",
+      "archiveDate": "2026-07-04",
+      "archiveRoomName": "第三课-地支有库 好才好事业",
+      "labelTime": "22:06:02",
+      "roomName": "第三课-地支有库 好才好事业",
+      "monitorId": "1782989681807-db6535a2904e18",
+      "monitorName": "0702广元",
+      "totalOnline": 283,
+      "returnedUserCount": 208,
+      "assistants": [
+        {
+          "assistant": "黄曼",
+          "online": 38,
+          "expected": 1009,
+          "missing": false
+        },
+        {
+          "assistant": "丁仁安",
+          "online": 34,
+          "expected": 1289,
+          "missing": false
+        },
+        {
+          "assistant": "刘小刚",
+          "online": 34,
+          "expected": 1473,
+          "missing": false
+        },
+        {
+          "assistant": "汪文榜",
+          "online": 30,
+          "expected": 1015,
+          "missing": false
+        },
+        {
+          "assistant": "李帅",
+          "online": 23,
+          "expected": 1013,
+          "missing": false
+        },
+        {
+          "assistant": "刘萌萌",
+          "online": 21,
+          "expected": 1438,
+          "missing": false
+        },
+        {
+          "assistant": "代津",
+          "online": 15,
+          "expected": 653,
+          "missing": false
+        },
+        {
+          "assistant": "夏志能",
+          "online": 10,
+          "expected": 289,
+          "missing": false
+        }
+      ],
+      "suffixStats": [
+        {
+          "suffix": "观心2班-广元老师易",
+          "count": 20
+        },
+        {
+          "suffix": "曼曼A2-广元老师公",
+          "count": 19
+        },
+        {
+          "suffix": "曼曼A3-广元老师公",
+          "count": 19
+        },
+        {
+          "suffix": "信锦班2-广元院长亲",
+          "count": 19
+        },
+        {
+          "suffix": "松衡2班-广元老师易",
+          "count": 17
+        },
+        {
+          "suffix": "景涵班-A广元院长精",
+          "count": 16
+        },
+        {
+          "suffix": "若宇班-广元老师易学",
+          "count": 15
+        },
+        {
+          "suffix": "信锦班1-广元院长亲",
+          "count": 15
+        },
+        {
+          "suffix": "观心1班-广元老师易",
+          "count": 14
+        },
+        {
+          "suffix": "松衡3班-广元老师易",
+          "count": 13
+        },
+        {
+          "suffix": "小萌2-广元老师精品",
+          "count": 11
+        },
+        {
+          "suffix": "临川老师-广元易学实",
+          "count": 10
+        },
+        {
+          "suffix": "小萌1-广元老师精品",
+          "count": 10
         },
         {
           "suffix": "景涵班-广元院长精品",
