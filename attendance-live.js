@@ -121,13 +121,30 @@
     const status = document.querySelector("#attendanceStatus");
     if (status) status.textContent = "正在读取出勤记录...";
     try {
-      const response = await fetch(`./data/attendance-live.json?ts=${Date.now()}`, { cache: "no-store" });
-      const body = await response.json();
-      if (!response.ok) throw new Error(body.error || "读取失败");
+      const body = await fetchLiveData();
       render(Array.isArray(body.records) ? body.records : []);
     } catch {
       render([], "最新出勤 JSON 发布后，这里会自动显示记录。");
     }
+  }
+
+  async function fetchLiveData() {
+    const urls = [
+      `./data/attendance-live.json?ts=${Date.now()}`,
+      `https://qq2544012650-lab.github.io/ft-fwzx-pages/data/attendance-live.json?ts=${Date.now()}`
+    ];
+    let lastError = null;
+    for (const url of urls) {
+      try {
+        const response = await fetch(url, { cache: "no-store" });
+        const body = await response.json();
+        if (!response.ok) throw new Error(body.error || "读取失败");
+        return body;
+      } catch (error) {
+        lastError = error;
+      }
+    }
+    throw lastError || new Error("读取失败");
   }
 
   window.addEventListener("DOMContentLoaded", () => {
