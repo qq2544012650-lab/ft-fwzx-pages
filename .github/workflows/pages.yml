@@ -29,7 +29,7 @@ jobs:
       - name: Prepare static site
         run: |
           mkdir -p _site/data
-          cp index.html app.js attendance-live.js styles.css CNAME _site/
+          cp index.html app.js attendance-live.js styles.css _site/
           cp data/generated.json data/attendance-live.json _site/data/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
