@@ -66,43 +66,6 @@ button {
   border-color: #2b7bd7;
   font-weight: 650;
 }
-.nav-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 36px;
-  border: 1px solid #2b7bd7;
-  border-radius: 6px;
-  padding: 8px 12px;
-  background: #1c6ed0;
-  color: #ffffff;
-  font-size: 14px;
-  font-weight: 650;
-  line-height: 1;
-  text-decoration: none;
-  white-space: nowrap;
-}
-.nav-link:hover {
-  background: #155fb8;
-}
-.secondary-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 34px;
-  border: 1px solid var(--line);
-  border-radius: 6px;
-  padding: 8px 12px;
-  background: #eef4ff;
-  color: #1d4ed8;
-  font-size: 14px;
-  font-weight: 700;
-  text-decoration: none;
-  white-space: nowrap;
-}
-.secondary-link:hover {
-  background: #dceaff;
-}
 .secondary-button {
   background: #eef4ff;
   border-color: var(--line);
@@ -143,53 +106,6 @@ button {
   justify-content: space-between;
   margin-bottom: 14px;
 }
-.attendance-overview {
-  display: grid;
-  gap: 14px;
-}
-.attendance-summary {
-  display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
-  gap: 10px;
-}
-.attendance-summary div {
-  min-height: 82px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: 12px;
-  background: var(--panel-2);
-}
-.attendance-summary span {
-  display: block;
-  margin-bottom: 8px;
-  color: var(--muted);
-  font-size: 12px;
-}
-.attendance-summary strong {
-  display: block;
-  overflow-wrap: anywhere;
-  font-size: 22px;
-  line-height: 1.18;
-}
-.attendance-table-wrap {
-  max-height: 320px;
-  overflow: auto;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-}
-.attendance-table-wrap table {
-  margin: 0;
-}
-.attendance-table-wrap th:nth-child(2),
-.attendance-table-wrap th:nth-child(3),
-.attendance-table-wrap th:nth-child(4),
-.attendance-table-wrap td:nth-child(2),
-.attendance-table-wrap td:nth-child(3),
-.attendance-table-wrap td:nth-child(4) {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-
 .track-grid, .cost-grid, .upload-grid, .kpis {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
